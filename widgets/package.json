@@ -18,6 +18,8 @@
     "npm": "Please use yarn instead of NPM to install dependencies"
   },
   "dependencies": {
+    "echarts": "^5.4.3",
+    "ngx-echarts": "^15.0.3",
     "primeicons": "~6.0.1",
     "primeng": "~15.3.0"
   },
